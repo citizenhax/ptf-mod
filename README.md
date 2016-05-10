@@ -1,5 +1,6 @@
 Shameless copy of:
 The PenTesters Framework (PTF)
+I recommend using the original located here: https://github.com/trustedsec/ptf.git
 
 With the following updates/customization:
 
@@ -56,7 +57,7 @@ Check out the config/ptf.config file which contains the base location of where t
 
 This will put you in a Metasploitesque type shell which has a similar look and feel for consistency. Show modules, use <modules>, etc. are all accepted commands. First things first, always type help or ? to see a full list of commands.
 
-For a video tutorial on how to use PTF, check out our Vimeo page here: https://vimeo.com/137133837
+For a video tutorial on how to use PTF, check out the original developers Vimeo page here: https://vimeo.com/137133837
 
 ###Update EVERYTHING!
 
